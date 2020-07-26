@@ -7,7 +7,11 @@
 [4. License Details](#License-Details)  
 [5. List of Contributors](#List-of-Contributors)  
 [6. Tests](#Tests)  
-[7. Questions](#Questions)  
+[7. Questions](#Questions) 
+## DEMO
+
+![Demo Image](./images/Demo.gif)
+
 ## Description:
 This app will help you produce a clean and professional looking readme file for your project repositories
 ## Installation:
