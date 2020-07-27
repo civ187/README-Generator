@@ -12,6 +12,10 @@
 
 ![Demo Image](./images/Demo.gif)
 
+## link to video walkthrough
+
+https://drive.google.com/file/d/1fz1xQrz6Cw6IgvODGtwjdBB18EmJFewi/view
+
 ## Description:
 This app will help you produce a clean and professional looking readme file for your project repositories
 ## Installation:
